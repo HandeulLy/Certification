@@ -1,6 +1,7 @@
 <h1>Notes for Certifications</h1>
-<hr><hr>
+
 <h2>SQLD</h2>
+
 
 <hr>
 
