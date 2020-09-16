@@ -1,11 +1,10 @@
 <h1>Notes for Certifications</h1>
 
-<h2>SQLD</h2>
-
-
+<h4>
+<ul>
+  <li>SQLD</li>
+  <li>정보처리기사</li>
+  <li>TOPCIT</li>
+</ul>
 <hr>
-
-<h2>정보처리기사</h2>
-
-<hr>
-
+</h4>
