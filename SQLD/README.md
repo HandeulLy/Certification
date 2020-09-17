@@ -8,7 +8,7 @@
 
 1-1-1 모델링의 이해 <a href="https://blog.naver.com/handuelly/221707943096">Link</a>
 
-1-1-2 엔티티
+1-1-2 엔티티 <a href="https://blog.naver.com/handuelly/221707960037">Link</a>
 
 1-1-3 속성
 
