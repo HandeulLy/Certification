@@ -10,7 +10,7 @@
 
 1-1-2 엔티티 <a href="https://blog.naver.com/handuelly/221707960037">Link</a>
 
-1-1-3 속성
+1-1-3 속성 <a href="https://blog.naver.com/handuelly/221707990445">Link</a>
 
 1-1-4 관계
 
