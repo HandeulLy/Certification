@@ -12,7 +12,7 @@
 
 1-1-3 속성 <a href="https://blog.naver.com/handuelly/221707990445">Link</a>
 
-1-1-4 관계
+1-1-4 관계 <a href="https://blog.naver.com/handuelly/221708005795">Link</a>
 
 1-1-5 식별자
 
