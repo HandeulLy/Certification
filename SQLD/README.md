@@ -14,7 +14,7 @@
 
 1-1-4 관계 <a href="https://blog.naver.com/handuelly/221708005795">Link</a>
 
-1-1-5 식별자
+1-1-5 식별자 <a href="https://blog.naver.com/handuelly/221708016275">Link</a>
 
 #### 2장, 데이터 모델과 성능
 
