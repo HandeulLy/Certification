@@ -20,7 +20,7 @@
 
 1-2-1 성능 데이터 모델링의 정의 <a href="https://blog.naver.com/handuelly/221709136796">Link</a>
 
-1-2-2 정규화와 성능
+1-2-2 정규화와 성능 <a href="https://blog.naver.com/handuelly/221709531844">Link</a>
 
 1-2-3 반정규화와 성능
 
