@@ -24,7 +24,7 @@
 
 1-2-3 반정규화와 성능 <a href="https://blog.naver.com/handuelly/221709570862">Link</a>
 
-1-2-4 대량 데이터에 따른 성능
+1-2-4 대량 데이터에 따른 성능 <a href="https://blog.naver.com/handuelly/221709607292">Link</a>
 
 1-2-5 데이터베이스 구조와 성능
 
