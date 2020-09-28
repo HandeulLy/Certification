@@ -36,7 +36,7 @@
 
 #### 1장, SQL 기본
 
-2-1-1 관계형 데이터베이스 개요
+2-1-1 관계형 데이터베이스 개요 <a href="https://blog.naver.com/handuelly/221711622517">Link</a>
 
 2-1-2 DDL
 
