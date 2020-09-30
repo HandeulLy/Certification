@@ -40,7 +40,7 @@
 
 2-1-2 DDL <a href="https://blog.naver.com/handuelly/221711692546">Link</a>
 
-2-1-3 DML
+2-1-3 DML <a href="https://blog.naver.com/handuelly/221711706679">Link</a>
 
 2-1-4 TCL
 
