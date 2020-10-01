@@ -42,7 +42,7 @@
 
 2-1-3 DML <a href="https://blog.naver.com/handuelly/221711706679">Link</a>
 
-2-1-4 TCL
+2-1-4 TCL <a href="https://blog.naver.com/handuelly/221711721565">Link</a>
 
 2-1-5 WHERE 절
 
