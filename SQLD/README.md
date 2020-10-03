@@ -44,7 +44,7 @@
 
 2-1-4 TCL <a href="https://blog.naver.com/handuelly/221711721565">Link</a>
 
-2-1-5 WHERE 절
+2-1-5 WHERE 절 <a href="https://blog.naver.com/handuelly/221712448593">Link</a>
 
 2-1-6 함수
 
