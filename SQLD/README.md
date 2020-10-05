@@ -48,7 +48,7 @@
 
 2-1-6 함수 <a href="https://blog.naver.com/handuelly/221712697543">Link</a>
 
-2-1-7 GROUP BY, HAVING 절
+2-1-7 GROUP BY, HAVING 절 <a href="https://blog.naver.com/handuelly/221712726316">Link</a>
 
 2-1-8 ORDER BY 절
 
