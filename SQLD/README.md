@@ -52,7 +52,7 @@
 
 2-1-8 ORDER BY 절 <a href="https://blog.naver.com/handuelly/221712753545">Link</a>
 
-2-1-9 JOIN
+2-1-9 JOIN <a href="https://blog.naver.com/handuelly/221712787404">Link</a>
 
 #### 2장, SQL 활용
 
