@@ -56,7 +56,7 @@
 
 #### 2장, SQL 활용
 
-2-2-1 표준조인
+2-2-1 표준조인 <a href="https://blog.naver.com/handuelly/221714613992">Link</a>
 
 2-2-2 집합연산자
 
