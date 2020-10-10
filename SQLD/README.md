@@ -58,7 +58,7 @@
 
 2-2-1 표준조인 <a href="https://blog.naver.com/handuelly/221714613992">Link</a>
 
-2-2-2 집합연산자
+2-2-2 집합연산자 <a href="https://blog.naver.com/handuelly/221715492998">Link</a>
 
 2-2-3 계층형 질의와 셀프조인
 
