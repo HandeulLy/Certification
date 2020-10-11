@@ -60,7 +60,7 @@
 
 2-2-2 집합연산자 <a href="https://blog.naver.com/handuelly/221715492998">Link</a>
 
-2-2-3 계층형 질의와 셀프조인
+2-2-3 계층형 질의와 셀프조인 <a href="https://blog.naver.com/handuelly/221715585219">Link</a>
 
 2-2-4 서브쿼리
 
