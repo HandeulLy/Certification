@@ -62,7 +62,7 @@
 
 2-2-3 계층형 질의와 셀프조인 <a href="https://blog.naver.com/handuelly/221715585219">Link</a>
 
-2-2-4 서브쿼리
+2-2-4 서브쿼리 <a href="https://blog.naver.com/handuelly/221715671879">Link</a>
 
 2-2-5 그룹 함수
 
