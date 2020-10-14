@@ -64,7 +64,7 @@
 
 2-2-4 서브쿼리 <a href="https://blog.naver.com/handuelly/221715671879">Link</a>
 
-2-2-5 그룹 함수
+2-2-5 그룹 함수 <a href="https://blog.naver.com/handuelly/221715680807">Link</a>
 
 2-2-6 윈도우 함수
 
