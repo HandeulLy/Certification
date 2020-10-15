@@ -68,7 +68,7 @@
 
 2-2-6 윈도우 함수 <a href="https://blog.naver.com/handuelly/221715728831">Link</a>
 
-2-2-7 DCL
+2-2-7 DCL <a href="https://blog.naver.com/handuelly/221716174157">Link</a>
 
 2-2-8 절차형 SQL
 
