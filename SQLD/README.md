@@ -70,7 +70,7 @@
 
 2-2-7 DCL <a href="https://blog.naver.com/handuelly/221716174157">Link</a>
 
-2-2-8 절차형 SQL
+2-2-8 절차형 SQL <a href="https://blog.naver.com/handuelly/221716226335">Link</a>
 
 #### 3장, SQL 최적화 기본 원리
 
