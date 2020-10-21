@@ -78,6 +78,6 @@
 
 2-3-2 인덱스기본 <a href="https://blog.naver.com/handuelly/221715454154">Link</a>
 
-2-3-3 조인수행 원리
+2-3-3 조인수행 원리 <a href="https://blog.naver.com/handuelly/221715454953">Link</a>
 
 <hr>
