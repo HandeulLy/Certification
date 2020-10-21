@@ -76,7 +76,7 @@
 
 2-3-1 옵티마이저와 실행계획 <a href="https://blog.naver.com/handuelly/221716226942">Link</a>
 
-2-3-2 인덱스기본
+2-3-2 인덱스기본 <a href="https://blog.naver.com/handuelly/221715454154">Link</a>
 
 2-3-3 조인수행 원리
 
