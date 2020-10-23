@@ -1,6 +1,6 @@
 <h1>SQLD 목차</h1>
 
-
+합격 후기 <a href="https://blog.naver.com/handuelly/221778185473">Link</a>
 
 ### 제 1과목 <데이터 모델링의 이해>
 
