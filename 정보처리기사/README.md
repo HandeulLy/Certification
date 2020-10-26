@@ -10,7 +10,7 @@
 
 ​    001 소프트웨어 생명주기 **★** <a href="https://blog.naver.com/handuelly/221863874937">Link</a>
 
-​    002 스크럼(Scrum) 기법 **★**
+​    002 스크럼(Scrum) 기법 **★** <a href="https://blog.naver.com/handuelly/221863938625">Link</a>
 
 ​    003 XP(eXtreme Programming) 기법 **★**
 
