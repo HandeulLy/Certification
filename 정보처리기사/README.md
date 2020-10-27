@@ -12,7 +12,7 @@
 
 ​    002 스크럼(Scrum) 기법 **★** <a href="https://blog.naver.com/handuelly/221863938625">Link</a>
 
-​    003 XP(eXtreme Programming) 기법 **★**
+​    003 XP(eXtreme Programming) 기법 **★** <a href="https://blog.naver.com/handuelly/221866673954">Link</a>
 
 ​    004 현행 시스템 파악
 
