@@ -14,7 +14,7 @@
 
 ​    003 XP(eXtreme Programming) 기법 **★** <a href="https://blog.naver.com/handuelly/221866673954">Link</a>
 
-​    004 현행 시스템 파악
+​    004 현행 시스템 파악 <a href="https://blog.naver.com/handuelly/221866780727">Link</a>
 
 ​    005 개발 기술 환경 파악
 
