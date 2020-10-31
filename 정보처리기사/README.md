@@ -18,7 +18,7 @@
 
 ​    005 개발 기술 환경 파악 <a href="https://blog.naver.com/handuelly/221866814820">Link</a>
 
-​    006 요구사항 정의**** **☆**
+​    006 요구사항 정의**** **☆** <a href="https://blog.naver.com/handuelly/221866910284">Link</a>
 
 ​    007 요구사항 분석 기법
 
