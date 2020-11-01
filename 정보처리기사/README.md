@@ -20,7 +20,7 @@
 
 ​    006 요구사항 정의**** **☆** <a href="https://blog.naver.com/handuelly/221866910284">Link</a>
 
-​    007 요구사항 분석 기법
+​    007 요구사항 분석 기법 <a href="https://blog.naver.com/handuelly/221866979615">Link</a>
 
 ​    008 요구사항 확인 기법
 
