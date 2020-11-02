@@ -22,7 +22,7 @@
 
 ​    007 요구사항 분석 기법 <a href="https://blog.naver.com/handuelly/221866979615">Link</a>
 
-​    008 요구사항 확인 기법
+​    008 요구사항 확인 기법 <a href="https://blog.naver.com/handuelly/221867005005">Link</a>
 
 ​    009 UML(Unified Modeling Language) **★**
 
