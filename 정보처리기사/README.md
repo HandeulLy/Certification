@@ -24,7 +24,7 @@
 
 ​    008 요구사항 확인 기법 <a href="https://blog.naver.com/handuelly/221867005005">Link</a>
 
-​    009 UML(Unified Modeling Language) **★**
+​    009 UML(Unified Modeling Language) **★** <a href="https://blog.naver.com/handuelly/221868336718">Link</a>
 
 
 
