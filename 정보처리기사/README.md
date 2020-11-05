@@ -32,7 +32,7 @@
 
 ​    010 사용자 인터페이스 **★** <a href="https://blog.naver.com/handuelly/221870323417">Link</a>
 
-​    011 UI 표준 및 지침 **☆**
+​    011 UI 표준 및 지침 **☆** <a href="https://blog.naver.com/handuelly/221870505763">Link</a>
 
 ​    012 UI 설계 도구 **★**
 
