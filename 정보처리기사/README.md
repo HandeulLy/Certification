@@ -34,7 +34,7 @@
 
 ​    011 UI 표준 및 지침 **☆** <a href="https://blog.naver.com/handuelly/221870505763">Link</a>
 
-​    012 UI 설계 도구 **★**
+​    012 UI 설계 도구 **★** <a href="https://blog.naver.com/handuelly/221870616306">Link</a>
 
 ​    013 UI 요구사항 확인 **☆**
 
