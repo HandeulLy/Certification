@@ -36,7 +36,7 @@
 
 ​    012 UI 설계 도구 **★** <a href="https://blog.naver.com/handuelly/221870616306">Link</a>
 
-​    013 UI 요구사항 확인 **☆**
+​    013 UI 요구사항 확인 **☆** <a href="https://blog.naver.com/handuelly/221870891313">Link</a>
 
 ​    014 품질 요구사항 **☆**
 
