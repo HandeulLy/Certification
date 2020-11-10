@@ -38,7 +38,7 @@
 
 ​    013 UI 요구사항 확인 **☆** <a href="https://blog.naver.com/handuelly/221870891313">Link</a>
 
-​    014 품질 요구사항 **☆**
+​    014 품질 요구사항 **☆** <a href="https://blog.naver.com/handuelly/221871194502">Link</a>
 
 ​    015 UI 프로토타입 제작 및 검토 **★**
 
