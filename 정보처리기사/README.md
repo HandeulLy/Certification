@@ -40,7 +40,7 @@
 
 ​    014 품질 요구사항 **☆** <a href="https://blog.naver.com/handuelly/221871194502">Link</a>
 
-​    015 UI 프로토타입 제작 및 검토 **★**
+​    015 UI 프로토타입 제작 및 검토 **★** <a href="https://blog.naver.com/handuelly/221871312530">Link</a>
 
 ​    016 UI 설계서 작성 **☆**
 
