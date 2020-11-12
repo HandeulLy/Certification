@@ -42,7 +42,7 @@
 
 ​    015 UI 프로토타입 제작 및 검토 **★** <a href="https://blog.naver.com/handuelly/221871312530">Link</a>
 
-​    016 UI 설계서 작성 **☆**
+​    016 UI 설계서 작성 **☆** <a href="https://blog.naver.com/handuelly/221872219109">Link</a>
 
 ​    017 유용성 평가
 
