@@ -46,7 +46,7 @@
 
 ​    017 유용성 평가 <a href="https://blog.naver.com/handuelly/221872275421">Link</a>
 
-​    018 UI 상세 설계 **☆**
+​    018 UI 상세 설계 **☆** <a href="https://blog.naver.com/handuelly/221872319853">Link</a>
 
 ​    019 HCI / UX / 감성공학
 
