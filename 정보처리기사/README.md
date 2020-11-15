@@ -48,7 +48,7 @@
 
 ​    018 UI 상세 설계 **☆** <a href="https://blog.naver.com/handuelly/221872319853">Link</a>
 
-​    019 HCI / UX / 감성공학
+​    019 HCI / UX / 감성공학 <a href="https://blog.naver.com/handuelly/221872341606">Link</a>
 
 
 
