@@ -56,7 +56,7 @@
 
 ​    020 소프트웨어 아키텍쳐 **★** <a href="https://blog.naver.com/handuelly/221873027191">Link</a>
 
-​    021 아키텍쳐 패턴 **★**
+​    021 아키텍쳐 패턴 **★** <a href="https://blog.naver.com/handuelly/221873088029">Link</a>
 
 ​    022 객체지향(Object-Oriented) **★**
 
