@@ -58,7 +58,7 @@
 
 ​    021 아키텍쳐 패턴 **★** <a href="https://blog.naver.com/handuelly/221873088029">Link</a>
 
-​    022 객체지향(Object-Oriented) **★**
+​    022 객체지향(Object-Oriented) **★** <a href="https://blog.naver.com/handuelly/221874260303">Link</a>
 
 ​    023 모듈 **★**
 
