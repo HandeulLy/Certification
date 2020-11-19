@@ -60,7 +60,7 @@
 
 ​    022 객체지향(Object-Oriented) **★** <a href="https://blog.naver.com/handuelly/221874260303">Link</a>
 
-​    023 모듈 **★**
+​    023 모듈 **★** <a href="https://blog.naver.com/handuelly/221874384318">Link</a>
 
 ​    024 공통 모듈
 
