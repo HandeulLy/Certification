@@ -62,7 +62,7 @@
 
 ​    023 모듈 **★** <a href="https://blog.naver.com/handuelly/221874384318">Link</a>
 
-​    024 공통 모듈
+​    024 공통 모듈 <a href="https://blog.naver.com/handuelly/221875980504">Link</a>
 
 ​    025 코드 **☆**
 
