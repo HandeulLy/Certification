@@ -64,7 +64,7 @@
 
 ​    024 공통 모듈 <a href="https://blog.naver.com/handuelly/221875980504">Link</a>
 
-​    025 코드 **☆**
+​    025 코드 **☆** <a href="https://blog.naver.com/handuelly/221876013749">Link</a>
 
 ​    026 디자인 패턴 **☆**
 
