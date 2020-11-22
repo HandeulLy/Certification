@@ -66,7 +66,7 @@
 
 ​    025 코드 **☆** <a href="https://blog.naver.com/handuelly/221876013749">Link</a>
 
-​    026 디자인 패턴 **☆**
+​    026 디자인 패턴 **☆** <a href="https://blog.naver.com/handuelly/221876099766">Link</a>
 
 
 
