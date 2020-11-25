@@ -74,7 +74,7 @@
 
 ​    027 시스템 인터페이스 요구사항 분석 **☆** <a href="https://blog.naver.com/handuelly/221876163616">Link</a>
 
-​    028 인터페이스 요구사항 검증 **☆**
+​    028 인터페이스 요구사항 검증 **☆** <a href="https://blog.naver.com/handuelly/221876229338">Link</a>
 
 ​    029 인터페이스 시스템 식별
 
