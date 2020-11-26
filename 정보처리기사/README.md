@@ -76,7 +76,7 @@
 
 ​    028 인터페이스 요구사항 검증 **☆** <a href="https://blog.naver.com/handuelly/221876229338">Link</a>
 
-​    029 인터페이스 시스템 식별
+​    029 인터페이스 시스템 식별 <a href="https://blog.naver.com/handuelly/221876287139">Link</a>
 
 ​    030 송-수신 데이터 식별
 
