@@ -78,7 +78,7 @@
 
 ​    029 인터페이스 시스템 식별 <a href="https://blog.naver.com/handuelly/221876287139">Link</a>
 
-​    030 송-수신 데이터 식별
+​    030 송-수신 데이터 식별 <a href="https://blog.naver.com/handuelly/221887023479">Link</a>
 
 ​    031 인터페이스 방법 명세화 **☆**
 
