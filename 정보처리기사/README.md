@@ -82,7 +82,7 @@
 
 ​    031 인터페이스 방법 명세화 **☆** <a href="https://blog.naver.com/handuelly/221887102946">Link</a>
 
-​    032 시스템 인터페이스 설계서 작성
+​    032 시스템 인터페이스 설계서 작성 <a href="https://blog.naver.com/handuelly/221899412907">Link</a>
 
 ​    033 미들웨어 솔루션 명세 **★**
 
