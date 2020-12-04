@@ -100,7 +100,7 @@
 
 ​    034 자료 구조 **★** <a href="https://blog.naver.com/handuelly/221905548207">Link</a>
 
-​    035 데이터저장소/데이터베이스/DBMS **★**
+​    035 데이터저장소/데이터베이스/DBMS **★** <a href="https://blog.naver.com/handuelly/221905834370">Link</a>
 
 ​    036 데이터 입·출력 **☆**
 
