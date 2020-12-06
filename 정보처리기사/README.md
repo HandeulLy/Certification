@@ -102,7 +102,7 @@
 
 ​    035 데이터저장소/데이터베이스/DBMS **★** <a href="https://blog.naver.com/handuelly/221905834370">Link</a>
 
-​    036 데이터 입·출력 **☆**
+​    036 데이터 입·출력 **☆** <a href="https://blog.naver.com/handuelly/221905899502">Link</a>
 
 ​    037 절차형 SQL **☆**
 
