@@ -10,6 +10,13 @@
       <a href="https://blog.naver.com/handuelly/222160635227">link</a></li>
   <li>2020.12.03.  필기 공부, 1과목 파트 별 공부 팁
       <a href="https://blog.naver.com/handuelly/222161669316">link</a></li>
+  <li>2020.12.04.  이기적, 공부 계획 & 출제 예상 핵심
+      <a href="https://blog.naver.com/handuelly/222162835625">link</a></li>
+  <li>2020.12.06. PART01, CHAPTER01 공부
+      </li>
+  <li>2020.12.07. PART01, CHAPTER02 공부 + PART01, CHAPTER01 정리
+      <a href="https://blog.naver.com/handuelly/222165810496">link</a></li>
+  <li>2020.12.08. PART01, CHAPTER03 공부 + PART01, CHAPTER02 정리
+      <a href="https://blog.naver.com/handuelly/222167133605">link</a></li>
 </ul>
 </h4>
-
