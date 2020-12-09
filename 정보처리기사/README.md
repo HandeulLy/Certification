@@ -112,7 +112,7 @@
 
 ​    038 단위 모듈 구현 <a href="https://blog.naver.com/handuelly/221954895092">Link</a>
 
-​    039 단위 모듈 테스트 **☆**
+​    039 단위 모듈 테스트 **☆** <a href="https://blog.naver.com/handuelly/221954923734">Link</a>
 
 ​    040 개발 지원 도구 **☆**
 
