@@ -122,7 +122,7 @@
 
 ​    041 소프트웨어 패키징 **☆** <a href="https://blog.naver.com/handuelly/221955050199">Link</a>
 
-​    042 릴리즈 노트 작성 **☆**
+​    042 릴리즈 노트 작성 **☆** <a href="https://blog.naver.com/handuelly/221955086694">Link</a>
 
 ​    043 디지털 저작권 관리(DRM) **★**
 
