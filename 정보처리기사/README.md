@@ -124,7 +124,7 @@
 
 ​    042 릴리즈 노트 작성 **☆** <a href="https://blog.naver.com/handuelly/221955086694">Link</a>
 
-​    043 디지털 저작권 관리(DRM) **★**
+​    043 디지털 저작권 관리(DRM) **★** <a href="https://blog.naver.com/handuelly/221955135815">Link</a>
 
 ​    044 소프트웨어 설치 매뉴얼 작성
 
