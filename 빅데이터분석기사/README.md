@@ -26,5 +26,7 @@
       <a href="https://blog.naver.com/handuelly/222170490665">link</a></li>
   <li>2020.12.13. PART03, CHAPTER01 공부 + PART02, CHAPTER03 정리
       <a href="https://blog.naver.com/handuelly/222172412906">link</a></li>
+  <li>2020.12.16. PART03, CHAPTER02 공부 + PART03, CHAPTER01 정리
+      <a href="https://blog.naver.com/handuelly/222175823084">link</a></li>
 </ul>
 </h4>
