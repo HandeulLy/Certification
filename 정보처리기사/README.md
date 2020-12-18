@@ -130,7 +130,7 @@
 
 ​    045 소프트웨어 사용자 매뉴얼 작성 <a href="https://blog.naver.com/handuelly/221955218834">Link</a>
 
-​    046 소프트웨어 버전 등록 **☆**
+​    046 소프트웨어 버전 등록 **☆** <a href="https://blog.naver.com/handuelly/221955264954">Link</a>
 
 ​    047 소프트웨어 버전 관리 도구 **★**
 
