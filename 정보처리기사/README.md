@@ -132,7 +132,7 @@
 
 ​    046 소프트웨어 버전 등록 **☆** <a href="https://blog.naver.com/handuelly/221955264954">Link</a>
 
-​    047 소프트웨어 버전 관리 도구 **★**
+​    047 소프트웨어 버전 관리 도구 **★** <a href="https://blog.naver.com/handuelly/221955304814">Link</a>
 
 ​    048 빌드 자동화 도구 **☆**
 
