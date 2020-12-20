@@ -134,7 +134,7 @@
 
 ​    047 소프트웨어 버전 관리 도구 **★** <a href="https://blog.naver.com/handuelly/221955304814">Link</a>
 
-​    048 빌드 자동화 도구 **☆**
+​    048 빌드 자동화 도구 **☆** <a href="https://blog.naver.com/handuelly/221955329614">Link</a>
 
 
 
