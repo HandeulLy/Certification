@@ -142,7 +142,7 @@
 
 ​    049 애플리케이션 테스트 **☆** <a href="https://blog.naver.com/handuelly/221957457673">Link</a>
 
-​    050 애플리케이션 테스트의 분류 **☆**
+​    050 애플리케이션 테스트의 분류 **☆** <a href="https://blog.naver.com/handuelly/221957486845">Link</a>
 
 ​    051 테스트 기법에 따른 애플리케이션 테스트 **★** **★**
 
