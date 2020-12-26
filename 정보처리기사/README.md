@@ -148,7 +148,7 @@
 
 ​    052 개발 단계에 따른 애플리케이션 테스트 **★** <a href="https://blog.naver.com/handuelly/221957707280">Link</a>
 
-​    053 통합 테스트 **★**
+​    053 통합 테스트 **★** <a href="https://blog.naver.com/handuelly/221958806476">Link</a>
 
 ​    054 애플리케이션 테스트 프로세스 **☆**
 
