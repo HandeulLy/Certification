@@ -154,7 +154,7 @@
 
 ​    055 테스트 케이스/테스트 시나리오/테스트 오라클 **☆** <a href="https://blog.naver.com/handuelly/221958921139">Link</a>
 
-​    056 테스트 자동화 도구 **☆**
+​    056 테스트 자동화 도구 **☆** <a href="https://blog.naver.com/handuelly/221958993492">Link</a>
 
 ​    057 결함 관리 **☆**
 
