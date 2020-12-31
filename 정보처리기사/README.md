@@ -156,7 +156,7 @@
 
 ​    056 테스트 자동화 도구 **☆** <a href="https://blog.naver.com/handuelly/221958993492">Link</a>
 
-​    057 결함 관리 **☆**
+​    057 결함 관리 **☆** <a href="https://blog.naver.com/handuelly/221965414921">Link</a>
 
 ​    058 애플리케이션 성능 분석
 
