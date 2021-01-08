@@ -168,7 +168,7 @@
 
 ​    060 모듈 간 공통 기능 및 데이터 인터페이스 확인 <a href="https://blog.naver.com/handuelly/221965688908">Link</a>
 
-​    061 모듈 연계를 위한 인터페이스 기능 식별 **★**
+​    061 모듈 연계를 위한 인터페이스 기능 식별 **★** <a href="https://blog.naver.com/handuelly/221966888419">Link</a>
 
 ​    062 모듈 간 인터페이스 데이터 표준 확인
 
