@@ -172,7 +172,7 @@
 
 ​    062 모듈 간 인터페이스 데이터 표준 확인 <a href="https://blog.naver.com/handuelly/221966974109">Link</a>
 
-​    063 인터페이스 기능 구현 정의 **☆**
+​    063 인터페이스 기능 구현 정의 **☆** <a href="https://blog.naver.com/handuelly/221966995125">Link</a>
 
 ​    064 인터페이스 구현
 
