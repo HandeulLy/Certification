@@ -176,7 +176,7 @@
 
 ​    064 인터페이스 구현 <a href="https://blog.naver.com/handuelly/221967016461">Link</a>
 
-​    065 인터페이스 예외 처리 **☆**
+​    065 인터페이스 예외 처리 **☆** <a href="https://blog.naver.com/handuelly/221967095306">Link</a>
 
 ​    066 인터페이스 보안 **☆**
 
