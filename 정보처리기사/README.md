@@ -178,7 +178,7 @@
 
 ​    065 인터페이스 예외 처리 **☆** <a href="https://blog.naver.com/handuelly/221967095306">Link</a>
 
-​    066 인터페이스 보안 **☆**
+​    066 인터페이스 보안 **☆** <a href="https://blog.naver.com/handuelly/221967109566">Link</a>
 
 ​    067 연계 테스트 **☆**
 
