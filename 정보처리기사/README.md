@@ -180,7 +180,7 @@
 
 ​    066 인터페이스 보안 **☆** <a href="https://blog.naver.com/handuelly/221967109566">Link</a>
 
-​    067 연계 테스트 **☆**
+​    067 연계 테스트 **☆** <a href="https://blog.naver.com/handuelly/221967130609">Link</a>
 
 ​    068 인터페이스 구현 검증 **★**
 
