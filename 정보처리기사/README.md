@@ -182,7 +182,7 @@
 
 ​    067 연계 테스트 **☆** <a href="https://blog.naver.com/handuelly/221967130609">Link</a>
 
-​    068 인터페이스 구현 검증 **★**
+​    068 인터페이스 구현 검증 **★** <a href="https://blog.naver.com/handuelly/221967162651">Link</a>
 
 ​    069 인터페이스 오류 확인 및 처리 보고서 작성
 
