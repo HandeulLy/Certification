@@ -200,7 +200,7 @@
 
 ​    070 데이터베이스 설계 **★** <a href="https://blog.naver.com/handuelly/221968342468">Link</a>
 
-​    071 데이터 모델의 개념 **☆**
+​    071 데이터 모델의 개념 **☆** <a href="https://blog.naver.com/handuelly/221968367987">Link</a>
 
 ​    072 데이터 모델의 구성 요소-개체(Entity) **★**
 
