@@ -202,7 +202,7 @@
 
 ​    071 데이터 모델의 개념 **☆** <a href="https://blog.naver.com/handuelly/221968367987">Link</a>
 
-​    072 데이터 모델의 구성 요소-개체(Entity) **★**
+​    072 데이터 모델의 구성 요소-개체(Entity) **★** <a href="https://blog.naver.com/handuelly/221968385790">Link</a>
 
 ​    073 데이터 모델의 구성 요소-속성(Attribute) **☆**
 
