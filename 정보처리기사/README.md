@@ -206,7 +206,7 @@
 
 ​    073 데이터 모델의 구성 요소-속성(Attribute) **☆** <a href="https://blog.naver.com/handuelly/221968418613">Link</a>
 
-​    074 데이터 모델의 구성 요소-관계(Relationship) **☆**
+​    074 데이터 모델의 구성 요소-관계(Relationship) **☆*** <a href="https://blog.naver.com/handuelly/221968484923">Link</a>
 
 ​    075 식별자(Identifier)
 
