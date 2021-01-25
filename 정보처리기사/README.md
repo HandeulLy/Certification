@@ -208,9 +208,9 @@
 
 ​    074 데이터 모델의 구성 요소-관계(Relationship) **☆*** <a href="https://blog.naver.com/handuelly/221968484923">Link</a>
 
-​    075 식별자(Identifier)<a href="https://blog.naver.com/handuelly/221968530877">Link</a>
+​    075 식별자(Identifier) <a href="https://blog.naver.com/handuelly/221968530877">Link</a>
 
-​    076 E-R(개체-관계) 모델 **★**
+​    076 E-R(개체-관계) 모델 **★** <a href="https://blog.naver.com/handuelly/221968661873">Link</a>
 
 ​    077 관계형 데이터 모델
 
