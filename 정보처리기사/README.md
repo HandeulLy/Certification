@@ -212,7 +212,7 @@
 
 ​    076 E-R(개체-관계) 모델 **★** <a href="https://blog.naver.com/handuelly/221968661873">Link</a>
 
-​    077 관계형 데이터 모델
+​    077 관계형 데이터 모델 <a href="https://blog.naver.com/handuelly/221968760091">Link</a>
 
 ​    078 관계형 데이터베이스의 구조 **★**
 
