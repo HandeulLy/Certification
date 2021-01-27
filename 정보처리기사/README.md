@@ -214,7 +214,7 @@
 
 ​    077 관계형 데이터 모델 <a href="https://blog.naver.com/handuelly/221968760091">Link</a>
 
-​    078 관계형 데이터베이스의 구조 **★**
+​    078 관계형 데이터베이스의 구조 **★** <a href="https://blog.naver.com/handuelly/221968781256">Link</a>
 
 ​    079 관계형 데이터베이스의 제약 조건-키(Key) **★**
 
