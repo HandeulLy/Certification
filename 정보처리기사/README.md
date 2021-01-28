@@ -216,7 +216,7 @@
 
 ​    078 관계형 데이터베이스의 구조 **★** <a href="https://blog.naver.com/handuelly/221968781256">Link</a>
 
-​    079 관계형 데이터베이스의 제약 조건-키(Key) **★**
+​    079 관계형 데이터베이스의 제약 조건-키(Key) **★** <a href="https://blog.naver.com/handuelly/221968781256">Link</a>
 
 ​    080 관계형 데이터베이스의 제약 조건-무결성 **☆**
 
