@@ -220,7 +220,7 @@
 
 ​    080 관계형 데이터베이스의 제약 조건-무결성 **☆** <a href="https://blog.naver.com/handuelly/221968857024">Link</a>
 
-​    081 관계대수 및 관계해석 **★**
+​    081 관계대수 및 관계해석 **★** <a href="https://blog.naver.com/handuelly/221970357297">Link</a>
 
 ​    082 정규화(Normalization) **★**
 
