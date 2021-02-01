@@ -222,7 +222,7 @@
 
 ​    081 관계대수 및 관계해석 **★** <a href="https://blog.naver.com/handuelly/221970357297">Link</a>
 
-​    082 정규화(Normalization) **★**
+​    082 정규화(Normalization) **★** <a href="https://blog.naver.com/handuelly/221970454218">Link</a>
 
 ​    083 반정규화(Denormalization) **☆**
 
