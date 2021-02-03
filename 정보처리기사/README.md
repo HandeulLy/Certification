@@ -226,7 +226,7 @@
 
 ​    083 반정규화(Denormalization) **☆** <a href="https://blog.naver.com/handuelly/222018921830">Link</a>
 
-​    084 시스템 카탈로그 **★**
+​    084 시스템 카탈로그 **★** <a href="https://blog.naver.com/handuelly/222018946686">Link</a>
 
 
 
