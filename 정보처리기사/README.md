@@ -234,7 +234,7 @@
 
 ​    085 사전 조사 분석 **☆** <a href="https://blog.naver.com/handuelly/222020042993">Link</a>
 
-​    086 데이터베이스 저장 공간 설계 **☆**
+​    086 데이터베이스 저장 공간 설계 **☆** <a href="https://blog.naver.com/handuelly/222020085826">Link</a>
 
 ​    087 트랜잭션 분석/CRUD 분석 **☆**
 
