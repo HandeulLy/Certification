@@ -238,7 +238,7 @@
 
 ​    087 트랜잭션 분석/CRUD 분석 **☆** <a href="https://blog.naver.com/handuelly/222020122871">Link</a>
 
-​    088 인덱스 설계 **★**
+​    088 인덱스 설계 **★** <a href="https://blog.naver.com/handuelly/222020226642">Link</a>
 
 ​    089 뷰(View) 설계 **★**
 
