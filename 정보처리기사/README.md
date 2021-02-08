@@ -240,7 +240,7 @@
 
 ​    088 인덱스 설계 **★** <a href="https://blog.naver.com/handuelly/222020226642">Link</a>
 
-​    089 뷰(View) 설계 **★**
+​    089 뷰(View) 설계 **★** <a href="https://blog.naver.com/handuelly/222020890684">Link</a>
 
 ​    090 클러스터 설계 **★**
 
