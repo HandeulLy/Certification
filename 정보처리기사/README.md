@@ -242,7 +242,7 @@
 
 ​    089 뷰(View) 설계 **★** <a href="https://blog.naver.com/handuelly/222020890684">Link</a>
 
-​    090 클러스터 설계 **★**
+​    090 클러스터 설계 **★** <a href="https://blog.naver.com/handuelly/222020900883">Link</a>
 
 ​    091 파티션 설계 **★**
 
