@@ -244,7 +244,7 @@
 
 ​    090 클러스터 설계 **★** <a href="https://blog.naver.com/handuelly/222020900883">Link</a>
 
-​    091 파티션 설계 **★**
+​    091 파티션 설계 **★** <a href="https://blog.naver.com/handuelly/222020928456">Link</a>
 
 ​    092 데이터베이스 용량 설계
 
