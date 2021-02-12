@@ -246,7 +246,7 @@
 
 ​    091 파티션 설계 **★** <a href="https://blog.naver.com/handuelly/222020928456">Link</a>
 
-​    092 데이터베이스 용량 설계
+​    092 데이터베이스 용량 설계 <a href="https://blog.naver.com/handuelly/222020936009">Link</a>
 
 ​    093 분산 데이터베이스 설계 **★**
 
