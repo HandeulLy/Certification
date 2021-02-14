@@ -250,7 +250,7 @@
 
 ​    093 분산 데이터베이스 설계 **★** <a href="https://blog.naver.com/handuelly/222022849792">Link</a>
 
-​    094 데이터베이스 이중화/서버 클러스터링 **☆**
+​    094 데이터베이스 이중화/서버 클러스터링 **☆** <a href="https://blog.naver.com/handuelly/222022895795">Link</a>
 
 ​    095 데이터베이스 보안/암호화 **☆**
 
