@@ -252,7 +252,7 @@
 
 ​    094 데이터베이스 이중화/서버 클러스터링 **☆** <a href="https://blog.naver.com/handuelly/222022895795">Link</a>
 
-​    095 데이터베이스 보안/암호화 **☆**
+​    095 데이터베이스 보안/암호화 **☆** <a href="https://blog.naver.com/handuelly/222022906911">Link</a>
 
 ​    096 데이터베이스 보안-접근통제 **★**
 
