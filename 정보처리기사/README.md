@@ -254,7 +254,7 @@
 
 ​    095 데이터베이스 보안/암호화 **☆** <a href="https://blog.naver.com/handuelly/222022906911">Link</a>
 
-​    096 데이터베이스 보안-접근통제 **★**
+​    096 데이터베이스 보안-접근통제 **★** <a href="https://blog.naver.com/handuelly/222023124140">Link</a>
 
 ​    097 데이터베이스 백업
 
