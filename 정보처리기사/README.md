@@ -256,7 +256,7 @@
 
 ​    096 데이터베이스 보안-접근통제 **★** <a href="https://blog.naver.com/handuelly/222023124140">Link</a>
 
-​    097 데이터베이스 백업
+​    097 데이터베이스 백업 <a href="https://blog.naver.com/handuelly/222023160626">Link</a>
 
 ​    098 스토리지 **☆**
 
