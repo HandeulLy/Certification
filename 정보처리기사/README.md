@@ -258,7 +258,7 @@
 
 ​    097 데이터베이스 백업 <a href="https://blog.naver.com/handuelly/222023160626">Link</a>
 
-​    098 스토리지 **☆**
+​    098 스토리지 **☆** <a href="https://blog.naver.com/handuelly/222023174995">Link</a>
 
 ​    099 논리 데이터 모델의 물리 데이터 모델 변환 **★**
 
