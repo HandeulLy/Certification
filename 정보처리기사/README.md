@@ -260,7 +260,7 @@
 
 ​    098 스토리지 **☆** <a href="https://blog.naver.com/handuelly/222023174995">Link</a>
 
-​    099 논리 데이터 모델의 물리 데이터 모델 변환 **★**
+​    099 논리 데이터 모델의 물리 데이터 모델 변환 **★** <a href="https://blog.naver.com/handuelly/222023203333">Link</a>
 
 ​    100 물리 데이터 모델 품질 검토
 
