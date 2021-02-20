@@ -262,7 +262,7 @@
 
 ​    099 논리 데이터 모델의 물리 데이터 모델 변환 **★** <a href="https://blog.naver.com/handuelly/222023203333">Link</a>
 
-​    100 물리 데이터 모델 품질 검토
+​    100 물리 데이터 모델 품질 검토 <a href="https://blog.naver.com/handuelly/222023209367">Link</a>
 
 
 
