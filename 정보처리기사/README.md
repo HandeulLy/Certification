@@ -268,7 +268,7 @@
 
 #### **3장. SQL 응용**
 
-​    101 SQL의 개념 **☆**
+​    101 SQL의 개념 **☆** <a href="https://blog.naver.com/handuelly/222025100904">Link</a>
 
 ​    102 DDL
 
