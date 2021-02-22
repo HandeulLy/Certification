@@ -270,7 +270,7 @@
 
 ​    101 SQL의 개념 **☆** <a href="https://blog.naver.com/handuelly/222025100904">Link</a>
 
-​    102 DDL
+​    102 DDL <a href="https://blog.naver.com/handuelly/222025200504">Link</a>
 
 ​    103 DCL
 
