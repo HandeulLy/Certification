@@ -272,7 +272,7 @@
 
 ​    102 DDL <a href="https://blog.naver.com/handuelly/222025200504">Link</a>
 
-​    103 DCL
+​    103 DCL <a href="https://blog.naver.com/handuelly/222025233672">Link</a>
 
 ​    104 DML **☆**
 
