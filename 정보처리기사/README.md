@@ -276,7 +276,7 @@
 
 ​    104 DML **☆** <a href="https://blog.naver.com/handuelly/222025261264">Link</a>
 
-​    105 DML-SELECT-1 **★**
+​    105 DML-SELECT-1 **★** <a href="https://blog.naver.com/handuelly/222039679824">Link</a>
 
 ​    106 DML-SELECT-2 **★**
 
