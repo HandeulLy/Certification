@@ -286,7 +286,7 @@
 
 #### **4장. SQL 활용**
 
-​    108 프로시저(Procedure) **★**
+​    108 프로시저(Procedure) **★** <a href="https://blog.naver.com/handuelly/222055981866">Link</a>
 
 ​    109 트리거(Trigger) **☆**
 
