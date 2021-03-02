@@ -288,7 +288,7 @@
 
 ​    108 프로시저(Procedure) **★** <a href="https://blog.naver.com/handuelly/222055981866">Link</a>
 
-​    109 트리거(Trigger) **☆**
+​    109 트리거(Trigger) **☆** <a href="https://blog.naver.com/handuelly/222056002064">Link</a>
 
 ​    110 사용자 정의 함수 **☆**
 
