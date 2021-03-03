@@ -290,7 +290,7 @@
 
 ​    109 트리거(Trigger) **☆** <a href="https://blog.naver.com/handuelly/222056002064">Link</a>
 
-​    110 사용자 정의 함수 **☆**
+​    110 사용자 정의 함수 **☆** <a href="https://blog.naver.com/handuelly/222056249414">Link</a>
 
 ​    111 DBMS 접속 기술 **☆**
 
