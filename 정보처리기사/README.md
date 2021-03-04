@@ -292,7 +292,7 @@
 
 ​    110 사용자 정의 함수 **☆** <a href="https://blog.naver.com/handuelly/222056249414">Link</a>
 
-​    111 DBMS 접속 기술 **☆**
+​    111 DBMS 접속 기술 **☆** <a href="https://blog.naver.com/handuelly/222056267055">Link</a>
 
 ​    112 SQL 테스트 **☆**
 
