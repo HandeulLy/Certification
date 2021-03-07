@@ -296,7 +296,7 @@
 
 ​    112 SQL 테스트 **☆** <a href="https://blog.naver.com/handuelly/222056310675">Link</a>
 
-​    113 ORM(Object-Relational Mapping) **☆**
+​    113 ORM(Object-Relational Mapping) **☆** <a href="https://blog.naver.com/handuelly/222056319874">Link</a>
 
 ​    114 쿼리 성능 최적화
 
