@@ -298,7 +298,7 @@
 
 ​    113 ORM(Object-Relational Mapping) **☆** <a href="https://blog.naver.com/handuelly/222056319874">Link</a>
 
-​    114 쿼리 성능 최적화
+​    114 쿼리 성능 최적화 <a href="https://blog.naver.com/handuelly/222056342598">Link</a>
 
 
 
