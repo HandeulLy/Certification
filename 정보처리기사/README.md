@@ -306,7 +306,7 @@
 
 ​    115 데이터 전환 **☆** <a href="https://blog.naver.com/handuelly/222056742453">Link</a>
 
-​    116 데이터 전환 계획서 작성
+​    116 데이터 전환 계획서 작성 <a href="https://blog.naver.com/handuelly/222056754484">Link</a>
 
 ​    117 데이터 전환 방안
 
