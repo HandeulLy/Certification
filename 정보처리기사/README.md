@@ -310,7 +310,7 @@
 
 ​    117 데이터 전환 방안 <a href="https://blog.naver.com/handuelly/222056766746">Link</a>
 
-​    118 데이터 검증
+​    118 데이터 검증 <a href="https://blog.naver.com/handuelly/222056800549">Link</a>
 
 ​    119 오류 데이터 측정 및 정제
 
