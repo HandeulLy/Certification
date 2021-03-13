@@ -312,7 +312,7 @@
 
 ​    118 데이터 검증 <a href="https://blog.naver.com/handuelly/222056800549">Link</a>
 
-​    119 오류 데이터 측정 및 정제
+​    119 오류 데이터 측정 및 정제 <a href="https://blog.naver.com/handuelly/222056807194">Link</a>
 
 ​    120 데이터 정제요청서 및 정제보고서
 
