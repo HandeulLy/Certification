@@ -314,7 +314,7 @@
 
 ​    119 오류 데이터 측정 및 정제 <a href="https://blog.naver.com/handuelly/222056807194">Link</a>
 
-​    120 데이터 정제요청서 및 정제보고서
+​    120 데이터 정제요청서 및 정제보고서 <a href="https://blog.naver.com/handuelly/222056813035">Link</a>
 
 
 
