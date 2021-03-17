@@ -330,7 +330,7 @@
 
 ​    121 개발 환경 구축 **☆** <a href="https://blog.naver.com/handuelly/222056982623">Link</a>
 
-​    122 서버 개발
+​    122 서버 개발 <a href="https://blog.naver.com/handuelly/222057006330">Link</a>
 
 ​    123 보안 및 API **☆**
 
