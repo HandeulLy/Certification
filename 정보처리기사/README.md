@@ -332,7 +332,7 @@
 
 ​    122 서버 개발 <a href="https://blog.naver.com/handuelly/222057006330">Link</a>
 
-​    123 보안 및 API **☆**
+​    123 보안 및 API **☆** <a href="https://blog.naver.com/handuelly/222057036426">Link</a>
 
 ​    124 배치 프로그램 **☆**
 
