@@ -334,7 +334,7 @@
 
 ​    123 보안 및 API **☆** <a href="https://blog.naver.com/handuelly/222057036426">Link</a>
 
-​    124 배치 프로그램 **☆**
+​    124 배치 프로그램 **☆** <a href="https://blog.naver.com/handuelly/222057040160">Link</a>
 
 ​    125 패키지 소프트웨어
 
