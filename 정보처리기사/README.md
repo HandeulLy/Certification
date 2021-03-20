@@ -336,7 +336,7 @@
 
 ​    124 배치 프로그램 **☆** <a href="https://blog.naver.com/handuelly/222057040160">Link</a>
 
-​    125 패키지 소프트웨어
+​    125 패키지 소프트웨어 <a href="https://blog.naver.com/handuelly/222057046521">Link</a>
 
 
 
