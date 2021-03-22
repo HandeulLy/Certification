@@ -344,7 +344,7 @@
 
 ​    126 데이터 타입 **☆** <a href="https://blog.naver.com/handuelly/222057516202">Link</a>
 
-​    127 변수 **★**
+​    127 변수 **★** <a href="https://blog.naver.com/handuelly/222057534151">Link</a>
 
 ​    128 연산자 **★**
 
