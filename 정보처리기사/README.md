@@ -346,7 +346,7 @@
 
 ​    127 변수 **★** <a href="https://blog.naver.com/handuelly/222057534151">Link</a>
 
-​    128 연산자 **★**
+​    128 연산자 **★** <a href="https://blog.naver.com/handuelly/222057554195">Link</a>
 
 ​    129 제어문 **★**
 
