@@ -350,7 +350,7 @@
 
 ​    129 제어문 **★** <a href="https://blog.naver.com/handuelly/222057564659">Link</a>
 
-​    130 반복문 **★**
+​    130 반복문 **★** <a href="https://blog.naver.com/handuelly/222057591107">Link</a>
 
 ​    131 배열과 문자열 **★**
 
