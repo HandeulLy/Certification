@@ -352,7 +352,7 @@
 
 ​    130 반복문 **★** <a href="https://blog.naver.com/handuelly/222057591107">Link</a>
 
-​    131 배열과 문자열 **★**
+​    131 배열과 문자열 **★** <a href="https://blog.naver.com/handuelly/222058607895">Link</a>
 
 ​    132 포인터 **★**
 
