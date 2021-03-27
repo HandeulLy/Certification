@@ -354,7 +354,7 @@
 
 ​    131 배열과 문자열 **★** <a href="https://blog.naver.com/handuelly/222058607895">Link</a>
 
-​    132 포인터 **★**
+​    132 포인터 **★** <a href="https://blog.naver.com/handuelly/222058621288">Link</a>
 
 ​    133 절차적 프로그래밍 언어
 
