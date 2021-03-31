@@ -360,7 +360,7 @@
 
 ​    134 객체지향 프로그래밍 언어 <a href="https://blog.naver.com/handuelly/222058650664">Link</a>
 
-​    135 스크립트 언어
+​    135 스크립트 언어 <a href="https://blog.naver.com/handuelly/222058686021">Link</a>
 
 ​    136 선언형 언어
 
