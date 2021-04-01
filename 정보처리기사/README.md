@@ -362,7 +362,7 @@
 
 ​    135 스크립트 언어 <a href="https://blog.naver.com/handuelly/222058686021">Link</a>
 
-​    136 선언형 언어
+​    136 선언형 언어 <a href="https://blog.naver.com/handuelly/222058693710">Link</a>
 
 ​    137 라이브러리
 
