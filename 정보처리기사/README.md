@@ -368,7 +368,7 @@
 
 ​    138 데이터 입·출력 **★** <a href="https://blog.naver.com/handuelly/222231702453">Link</a>
 
-​    139 예외 처리
+​    139 예외 처리 <a href="https://blog.naver.com/handuelly/222231730420">Link</a>
 
 ​    140 프로토타입
 
