@@ -370,7 +370,7 @@
 
 ​    139 예외 처리 <a href="https://blog.naver.com/handuelly/222231730420">Link</a>
 
-​    140 프로토타입
+​    140 프로토타입 <a href="https://blog.naver.com/handuelly/222231739525">Link</a>
 
 
 
