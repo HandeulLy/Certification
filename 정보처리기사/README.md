@@ -378,7 +378,7 @@
 
 ​    141 운영체제의 개념 **★** <a href="https://blog.naver.com/handuelly/222235752607">Link</a>
 
-​    142 Windows
+​    142 Windows <a href="https://blog.naver.com/handuelly/222235778138">Link</a>
 
 ​    143 UNIX/LINUX/MacOS **★**
 
