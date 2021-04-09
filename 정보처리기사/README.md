@@ -380,7 +380,7 @@
 
 ​    142 Windows <a href="https://blog.naver.com/handuelly/222235778138">Link</a>
 
-​    143 UNIX/LINUX/MacOS **★**
+​    143 UNIX/LINUX/MacOS **★** <a href="https://blog.naver.com/handuelly/222235804512">Link</a>
 
 ​    144 기억장치 관리의 개요 **★**
 
