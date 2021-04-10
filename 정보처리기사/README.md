@@ -382,7 +382,7 @@
 
 ​    143 UNIX/LINUX/MacOS **★** <a href="https://blog.naver.com/handuelly/222235804512">Link</a>
 
-​    144 기억장치 관리의 개요 **★**
+​    144 기억장치 관리의 개요 **★** <a href="https://blog.naver.com/handuelly/222235834130">Link</a>
 
 ​    145 주기억장치 할당 기법
 
