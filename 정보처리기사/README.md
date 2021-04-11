@@ -384,7 +384,7 @@
 
 ​    144 기억장치 관리의 개요 **★** <a href="https://blog.naver.com/handuelly/222235834130">Link</a>
 
-​    145 주기억장치 할당 기법
+​    145 주기억장치 할당 기법 <a href="https://blog.naver.com/handuelly/222235841985">Link</a>
 
 ​    146 가상기억장치 구현 기법/페이지 교체 알고리즘 **★**
 
