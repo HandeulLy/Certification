@@ -386,7 +386,7 @@
 
 ​    145 주기억장치 할당 기법 <a href="https://blog.naver.com/handuelly/222235841985">Link</a>
 
-​    146 가상기억장치 구현 기법/페이지 교체 알고리즘 **★**
+​    146 가상기억장치 구현 기법/페이지 교체 알고리즘 **★** <a href="https://blog.naver.com/handuelly/222235855208">Link</a>
 
 ​    147 가상기억장치 기타 관리 사항 **★**
 
