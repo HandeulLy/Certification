@@ -388,7 +388,7 @@
 
 ​    146 가상기억장치 구현 기법/페이지 교체 알고리즘 **★** <a href="https://blog.naver.com/handuelly/222235855208">Link</a>
 
-​    147 가상기억장치 기타 관리 사항 **★**
+​    147 가상기억장치 기타 관리 사항 **★** <a href="https://blog.naver.com/handuelly/222235863784">Link</a>
 
 ​    148 프로세스의 개요 **★**
 
