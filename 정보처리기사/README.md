@@ -390,7 +390,7 @@
 
 ​    147 가상기억장치 기타 관리 사항 **★** <a href="https://blog.naver.com/handuelly/222235863784">Link</a>
 
-​    148 프로세스의 개요 **★**
+​    148 프로세스의 개요 **★** <a href="https://blog.naver.com/handuelly/222236296981">Link</a>
 
 ​    149 스케줄링 **☆**
 
