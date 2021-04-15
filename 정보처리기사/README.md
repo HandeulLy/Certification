@@ -392,7 +392,7 @@
 
 ​    148 프로세스의 개요 **★** <a href="https://blog.naver.com/handuelly/222236296981">Link</a>
 
-​    149 스케줄링 **☆**
+​    149 스케줄링 **☆** <a href="https://blog.naver.com/handuelly/222236317538">Link</a>
 
 ​    150 환경 변수
 
