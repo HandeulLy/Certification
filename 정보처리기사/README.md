@@ -394,7 +394,7 @@
 
 ​    149 스케줄링 **☆** <a href="https://blog.naver.com/handuelly/222236317538">Link</a>
 
-​    150 환경 변수
+​    150 환경 변수 <a href="https://blog.naver.com/handuelly/222236323481">Link</a>
 
 ​    151 운영체제 기본 명령어 **☆**
 
