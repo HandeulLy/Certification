@@ -396,7 +396,7 @@
 
 ​    150 환경 변수 <a href="https://blog.naver.com/handuelly/222236323481">Link</a>
 
-​    151 운영체제 기본 명령어 **☆**
+​    151 운영체제 기본 명령어 **☆** <a href="https://blog.naver.com/handuelly/222236339763">Link</a>
 
 ​    152 인터넷 **★**
 
