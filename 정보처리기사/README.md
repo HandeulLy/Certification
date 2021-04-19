@@ -398,7 +398,7 @@
 
 ​    151 운영체제 기본 명령어 **☆** <a href="https://blog.naver.com/handuelly/222236339763">Link</a>
 
-​    152 인터넷 **★**
+​    152 인터넷 **★** <a href="https://blog.naver.com/handuelly/222236359513">Link</a>
 
 ​    153 OSI 참조 모델 **★**
 
