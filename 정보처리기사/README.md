@@ -400,7 +400,7 @@
 
 ​    152 인터넷 **★** <a href="https://blog.naver.com/handuelly/222236359513">Link</a>
 
-​    153 OSI 참조 모델 **★**
+​    153 OSI 참조 모델 **★** <a href="https://blog.naver.com/handuelly/222236514120">Link</a>
 
 ​    154 네트워크 관련 장비 **☆**
 
