@@ -402,7 +402,7 @@
 
 ​    153 OSI 참조 모델 **★** <a href="https://blog.naver.com/handuelly/222236514120">Link</a>
 
-​    154 네트워크 관련 장비 **☆**
+​    154 네트워크 관련 장비 **☆** <a href="https://blog.naver.com/handuelly/222236532413">Link</a>
 
 ​    155 프로토콜의 개념 **☆**
 
