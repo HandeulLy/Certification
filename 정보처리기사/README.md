@@ -404,7 +404,7 @@
 
 ​    154 네트워크 관련 장비 **☆** <a href="https://blog.naver.com/handuelly/222236532413">Link</a>
 
-​    155 프로토콜의 개념 **☆**
+​    155 프로토콜의 개념 **☆** <a href="https://blog.naver.com/handuelly/222236557551">Link</a>
 
 ​    156 TCP/IP **★**
 
