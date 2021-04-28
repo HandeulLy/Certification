@@ -422,7 +422,7 @@
 
 ​    157 소프트웨어 개발 방법론 **★** <a href="https://blog.naver.com/handuelly/222237946966">Link</a>
 
-​    158 비용 산정 기법 **★**
+​    158 비용 산정 기법 **★** <a href="https://blog.naver.com/handuelly/222237962772">Link</a>
 
 ​    159 비용 산정 기법-하향식 **★**
 
