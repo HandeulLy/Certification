@@ -426,7 +426,7 @@
 
 ​    159 비용 산정 기법-하향식 **★** <a href="https://blog.naver.com/handuelly/222237970088">Link</a>
 
-​    160 비용 산정 기법-상향식 **★**
+​    160 비용 산정 기법-상향식 **★** <a href="https://blog.naver.com/handuelly/222237981951">Link</a>
 
 ​    161 수학적 산정 기법 **★**
 
