@@ -428,7 +428,7 @@
 
 ​    160 비용 산정 기법-상향식 **★** <a href="https://blog.naver.com/handuelly/222237981951">Link</a>
 
-​    161 수학적 산정 기법 **★**
+​    161 수학적 산정 기법 **★** <a href="https://blog.naver.com/handuelly/222238386437">Link</a>
 
 ​    162 소프트웨어 개발 방법론 결정
 
