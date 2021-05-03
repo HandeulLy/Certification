@@ -430,7 +430,7 @@
 
 ​    161 수학적 산정 기법 **★** <a href="https://blog.naver.com/handuelly/222238386437">Link</a>
 
-​    162 소프트웨어 개발 방법론 결정
+​    162 소프트웨어 개발 방법론 결정 <a href="https://blog.naver.com/handuelly/222238407662">Link</a>
 
 ​    163 소프트웨어 개발 표준 **☆**
 
