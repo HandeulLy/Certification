@@ -432,7 +432,7 @@
 
 ​    162 소프트웨어 개발 방법론 결정 <a href="https://blog.naver.com/handuelly/222238407662">Link</a>
 
-​    163 소프트웨어 개발 표준 **☆**
+​    163 소프트웨어 개발 표준 **☆** <a href="https://blog.naver.com/handuelly/222238444673">Link</a>
 
 ​    164 소프트웨어 개발 방법론 테일러링 **☆**
 
