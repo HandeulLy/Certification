@@ -434,7 +434,7 @@
 
 ​    163 소프트웨어 개발 표준 **☆** <a href="https://blog.naver.com/handuelly/222238444673">Link</a>
 
-​    164 소프트웨어 개발 방법론 테일러링 **☆**
+​    164 소프트웨어 개발 방법론 테일러링 **☆** <a href="https://blog.naver.com/handuelly/222238461453">Link</a>
 
 ​    165 소프트웨어 개발 프레임워크 **☆**
 
