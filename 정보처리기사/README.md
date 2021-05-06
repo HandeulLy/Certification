@@ -436,7 +436,7 @@
 
 ​    164 소프트웨어 개발 방법론 테일러링 **☆** <a href="https://blog.naver.com/handuelly/222238461453">Link</a>
 
-​    165 소프트웨어 개발 프레임워크 **☆**
+​    165 소프트웨어 개발 프레임워크 **☆** <a href="https://blog.naver.com/handuelly/222238472254">Link</a>
 
 
 
