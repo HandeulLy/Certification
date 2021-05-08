@@ -444,7 +444,7 @@
 
 ​    166 네트워크 관련 신기술 **★** <a href="https://blog.naver.com/handuelly/222242356318">Link</a>
 
-​    167 네트워크 구축 **★**
+​    167 네트워크 구축 **★** <a href="https://blog.naver.com/handuelly/222242456471">Link</a>
 
 ​    168 스위치 **☆**
 
