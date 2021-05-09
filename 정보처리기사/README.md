@@ -446,7 +446,7 @@
 
 ​    167 네트워크 구축 **★** <a href="https://blog.naver.com/handuelly/222242456471">Link</a>
 
-​    168 스위치 **☆**
+​    168 스위치 **☆** <a href="https://blog.naver.com/handuelly/222242477820">Link</a>
 
 ​    169 경로 제어/트래픽 제어 **☆**
 
