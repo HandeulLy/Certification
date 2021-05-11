@@ -450,7 +450,7 @@
 
 ​    169 경로 제어/트래픽 제어 **☆** <a href="https://blog.naver.com/handuelly/222242500578">Link</a>
 
-​    170 SW 관련 신기술 **★**
+​    170 SW 관련 신기술 **★** <a href="https://blog.naver.com/handuelly/222244241152">Link</a>
 
 ​    171 소프트웨어 개발 보안
 
