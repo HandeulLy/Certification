@@ -452,7 +452,7 @@
 
 ​    170 SW 관련 신기술 **★** <a href="https://blog.naver.com/handuelly/222244241152">Link</a>
 
-​    171 소프트웨어 개발 보안
+​    171 소프트웨어 개발 보안 <a href="https://blog.naver.com/handuelly/222244276165">Link</a>
 
 ​    172 소프트웨어 개발 직무별 보안 활동 **☆**
 
