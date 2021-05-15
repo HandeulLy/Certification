@@ -456,7 +456,7 @@
 
 ​    172 소프트웨어 개발 직무별 보안 활동 **☆** <a href="https://blog.naver.com/handuelly/222244286729">Link</a>
 
-​    173 소프트웨어 개발 보안 활동 관련 법령 및 규정
+​    173 소프트웨어 개발 보안 활동 관련 법령 및 규정 <a href="https://blog.naver.com/handuelly/222244293677">Link</a>
 
 ​    174 HW 관련 신기술 **★**
 
