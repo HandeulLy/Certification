@@ -458,7 +458,7 @@
 
 ​    173 소프트웨어 개발 보안 활동 관련 법령 및 규정 <a href="https://blog.naver.com/handuelly/222244293677">Link</a>
 
-​    174 HW 관련 신기술 **★**
+​    174 HW 관련 신기술 **★** <a href="https://blog.naver.com/handuelly/222244321951">Link</a>
 
 ​    175 Secure OS **☆**
 
