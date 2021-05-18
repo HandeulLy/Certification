@@ -462,7 +462,7 @@
 
 ​    175 Secure OS **☆** <a href="https://blog.naver.com/handuelly/222244338753">Link</a>
 
-​    176 DB 관련 신기술 **★**
+​    176 DB 관련 신기술 **★** <a href="https://blog.naver.com/handuelly/222244350066">Link</a>
 
 ​    177 회복/병행제어 **☆**
 
