@@ -464,7 +464,7 @@
 
 ​    176 DB 관련 신기술 **★** <a href="https://blog.naver.com/handuelly/222244350066">Link</a>
 
-​    177 회복/병행제어 **☆**
+​    177 회복/병행제어 **☆** <a href="https://blog.naver.com/handuelly/222244363867">Link</a>
 
 ​    178 데이터 표준화 **★**
 
