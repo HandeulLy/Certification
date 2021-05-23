@@ -472,7 +472,7 @@
 
 #### **3장. 소프트웨어 개발 보안 구축**
 
-​    179 Secure SDLC **★**
+​    179 Secure SDLC **★** <a href="https://blog.naver.com/handuelly/222245582240">Link</a>
 
 ​    180 세션 통제 **☆**
 
