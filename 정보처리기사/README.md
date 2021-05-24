@@ -474,7 +474,7 @@
 
 ​    179 Secure SDLC **★** <a href="https://blog.naver.com/handuelly/222245582240">Link</a>
 
-​    180 세션 통제 **☆**
+​    180 세션 통제 **☆** <a href="https://blog.naver.com/handuelly/222245609723">Link</a>
 
 ​    181 입력 데이터 검증 및 표현 **☆**
 
