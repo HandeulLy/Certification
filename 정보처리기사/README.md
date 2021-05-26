@@ -476,7 +476,7 @@
 
 ​    180 세션 통제 **☆** <a href="https://blog.naver.com/handuelly/222245609723">Link</a>
 
-​    181 입력 데이터 검증 및 표현 **☆**
+​    181 입력 데이터 검증 및 표현 **☆** <a href="https://blog.naver.com/handuelly/222245633000">Link</a>
 
 ​    182 보안 기능 **☆**
 
