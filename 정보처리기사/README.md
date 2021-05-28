@@ -478,7 +478,7 @@
 
 ​    181 입력 데이터 검증 및 표현 **☆** <a href="https://blog.naver.com/handuelly/222245633000">Link</a>
 
-​    182 보안 기능 **☆**
+​    182 보안 기능 **☆** <a href="https://blog.naver.com/handuelly/222245666563">Link</a>
 
 ​    183 시간 및 상태
 
