@@ -480,7 +480,7 @@
 
 ​    182 보안 기능 **☆** <a href="https://blog.naver.com/handuelly/222245666563">Link</a>
 
-​    183 시간 및 상태
+​    183 시간 및 상태 <a href="https://blog.naver.com/handuelly/222245690398">Link</a>
 
 ​    184 에러처리 **☆**
 
