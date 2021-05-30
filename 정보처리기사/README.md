@@ -482,7 +482,7 @@
 
 ​    183 시간 및 상태 <a href="https://blog.naver.com/handuelly/222245690398">Link</a>
 
-​    184 에러처리 **☆**
+​    184 에러처리 **☆** <a href="https://blog.naver.com/handuelly/222245700231">Link</a>
 
 ​    185 코드 오류 **☆**
 
