@@ -486,7 +486,7 @@
 
 ​    185 코드 오류 **☆** <a href="https://blog.naver.com/handuelly/222245712609">Link</a>
 
-​    186 캡슐화
+​    186 캡슐화 <a href="https://blog.naver.com/handuelly/222245731086">Link</a>
 
 ​    187 API 오용
 
