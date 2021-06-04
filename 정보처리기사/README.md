@@ -490,7 +490,7 @@
 
 ​    187 API 오용 <a href="https://blog.naver.com/handuelly/222245738277">Link</a>
 
-​    188 암호 알고리즘 **★**
+​    188 암호 알고리즘 **★** <a href="https://blog.naver.com/handuelly/222245757088">Link</a>
 
 ****
 
