@@ -498,7 +498,7 @@
 
 ​    189 서비스 공격 유형 **★** <a href="https://blog.naver.com/handuelly/222248022205">Link</a>
 
-​    190 서버 인증 **☆**
+​    190 서버 인증 **☆** <a href="https://blog.naver.com/handuelly/222248086300">Link</a>
 
 ​    191 보안 아키텍처/보안 프레임워크
 
