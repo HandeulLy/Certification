@@ -500,7 +500,7 @@
 
 ​    190 서버 인증 **☆** <a href="https://blog.naver.com/handuelly/222248086300">Link</a>
 
-​    191 보안 아키텍처/보안 프레임워크
+​    191 보안 아키텍처/보안 프레임워크 <a href="https://blog.naver.com/handuelly/222248099023">Link</a>
 
 ​    192 로그 분석
 
