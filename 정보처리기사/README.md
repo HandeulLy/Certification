@@ -502,7 +502,7 @@
 
 ​    191 보안 아키텍처/보안 프레임워크 <a href="https://blog.naver.com/handuelly/222248099023">Link</a>
 
-​    192 로그 분석
+​    192 로그 분석 <a href="https://blog.naver.com/handuelly/222248111545">Link</a>
 
 ​    193 보안 솔루션 **★**
 
