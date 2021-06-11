@@ -506,7 +506,7 @@
 
 ​    193 보안 솔루션 **★** <a href="https://blog.naver.com/handuelly/222248132015">Link</a>
 
-​    194 취약점 분석·평가
+​    194 취약점 분석·평가 <a href="https://blog.naver.com/handuelly/222248139576">Link</a>
 
 
 
